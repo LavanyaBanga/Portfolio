@@ -8,10 +8,6 @@ Welcome to my personal portfolio website! This is a beautifully designed and res
 
 🌐 **[View My Portfolio](https://lavanyabanga.github.io/Portfolio/)**
 
----
-
-## 📂 Folder Structure
-
 ## 📁 Folder Structure
 Portfolio/
 ├── public/                  # Public files (favicon, etc.)
